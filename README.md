@@ -47,6 +47,7 @@ Ce projet de Big Data a pour objectif de démontrer l'utilisation et l'intégrat
 
 - KINDA Abdoul Latif : kinda.abdoul.latif.14@gmail.com
 - MAHARAVO Tefinjanahary Anicet  : tefinjanaharyanicet@gmail.com
+- YAHYA Zakaria : Zakariae.yh@gmail.com
 
 
 ### Licence
