@@ -1,0 +1,18 @@
+Apache Pig 
+
+LOAD : Charge des données dans une relation .
+FILTER : Filtre des données selon une condition.
+FOREACH ... GENERATE : Itère sur une relation et génère une nouvelle relation 
+STORE : Stocke le résultat d'une relation .
+
+Apache Hive/Impala
+CREATE DATABASE : Crée une nouvelle base de données.
+USE : Définit la base de données courante.
+CREATE EXTERNAL TABLE : Crée une table externe, qui stocke les données à un emplacement spécifique dans HDFS.
+ROW FORMAT SERDE : Spécifie le format de sérialisation/désérialisation pour les données.
+INSERT OVERWRITE TABLE : Insère des données dans une table en écrasant les données existantes.
+PARTITIONED BY : Définit les colonnes de partition pour une table partitionnée.
+ALTER TABLE ADD PARTITION : Ajoute une partition à une table partitionnée
+SET : Définit une propriété de configuration.
+CREATE VIEW : Crée une vue, qui est une table virtuelle basée sur le résultat d'une requête SQL.
+
